@@ -114,6 +114,10 @@ The project follows a typical Java Spring Boot structure. Below is an overview o
 
 [Visit Jacebook App](https://jacebook-app-latest-erwi.onrender.com/)
 
+### Demo Video
+
+[Watch the Demo Video](https://drive.google.com/file/d/1kzIfdMNMDSHtxGyG7dLQ15O7yIGKApJp/view?usp=sharing)
+
 ### API Endpoints
 
 - **User Registration**: `POST /users`
